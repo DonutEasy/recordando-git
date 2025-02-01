@@ -1,4 +1,4 @@
 let hola = 'Hola Mundo!';
 console.log(hola);
 
-hola = 'Hellow World friends!';
+hola = 'Hellow World amiguitos!';
